@@ -20,7 +20,7 @@ Este repositorio contiene el código y los recursos asociados a mi tesis sobre e
 Primero, clona este repositorio en tu máquina local usando:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/joacota2/Aprendizaje-Autom-tico-aplicado-a-la-asignaci-n-publicitaria.git
 ```
 
 Asegúrate de tener Python instalado y luego instala las dependencias necesarias con:
