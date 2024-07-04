@@ -1,0 +1,4 @@
+# This file specifies the dependencies required for the MAT (Marketing Attribution Modeling) Python library.
+numpy==1.19.2
+pandas==1.1.4
+matplotlib>=3.4.3
